@@ -1,0 +1,19 @@
+window:
+  padding:
+    x: 10
+    y: 10
+  opacity: 0.8
+
+  # Window class (Linux/BSD only):
+  class:
+    # Application instance name
+    instance: Alacritty
+    # General application class
+    general: Alacritty
+
+# Font configuration
+font:
+  normal:
+    # Font family
+    family: FiraCode Nerd Font
+    style: Regular
